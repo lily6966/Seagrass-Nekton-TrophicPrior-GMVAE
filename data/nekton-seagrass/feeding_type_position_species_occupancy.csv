@@ -1,0 +1,196 @@
+group,species_display,occupied_samples,occurrence_rate
+carnivore__demersal,Bairdiella chrysoura,257,0.4172077922077922
+carnivore__demersal,Orthopristis chrysoptera,215,0.349025974025974
+carnivore__demersal,Chilomycterus schoepfi,84,0.13636363636363635
+carnivore__demersal,Paralichthys albigutta,43,0.0698051948051948
+carnivore__demersal,Sphoeroides nephelus,39,0.0633116883116883
+carnivore__demersal,Symphurus plagiusa,23,0.037337662337662336
+carnivore__demersal,Haemulon plumieri,21,0.03409090909090909
+carnivore__demersal,Stellifer lanceolatus,19,0.030844155844155844
+carnivore__demersal,Micropogonias undulatus,17,0.027597402597402596
+carnivore__demersal,Favorinidae,13,0.021103896103896104
+carnivore__demersal,Centropristis philadelphica,10,0.016233766233766232
+carnivore__demersal,Mycteroperca microlepis,7,0.011363636363636364
+carnivore__demersal,Symphurus sp,7,0.011363636363636364
+carnivore__demersal,Paralichthys lethostigma,5,0.008116883116883116
+carnivore__demersal,Hypanus sabinus,4,0.006493506493506494
+carnivore__demersal,Serranus subligarius,4,0.006493506493506494
+carnivore__demersal,Menticirrhus sp,3,0.00487012987012987
+carnivore__demersal,Prionotus sp,3,0.00487012987012987
+carnivore__demersal,Sphoeroides parvus,3,0.00487012987012987
+carnivore__demersal,Trinectes maculatus,3,0.00487012987012987
+carnivore__demersal,Centropristis ocyurus,2,0.003246753246753247
+carnivore__demersal,Diapterus auratus,2,0.003246753246753247
+carnivore__demersal,Ogcocephalus cubifrons,2,0.003246753246753247
+carnivore__demersal,Symphurus civitatium,2,0.003246753246753247
+carnivore__demersal,Bascanichthys bascanium,1,0.0016233766233766235
+carnivore__demersal,Bothidae,1,0.0016233766233766235
+carnivore__demersal,Citharichthys spilopterus,1,0.0016233766233766235
+carnivore__demersal,Diplectrum bivittatum,1,0.0016233766233766235
+carnivore__demersal,Elops saurus,1,0.0016233766233766235
+carnivore__demersal,Etropus crossotus,1,0.0016233766233766235
+carnivore__demersal,Haemulidae,1,0.0016233766233766235
+carnivore__demersal,Haemulon sp,1,0.0016233766233766235
+carnivore__demersal,Menticirrhus americanus,1,0.0016233766233766235
+carnivore__demersal,Ophidion holbrookii,1,0.0016233766233766235
+carnivore__demersal,Paralichthyidae,1,0.0016233766233766235
+carnivore__demersal,Paralichthys dentatus,1,0.0016233766233766235
+carnivore__demersal,Pogonias cromis,1,0.0016233766233766235
+carnivore__demersal,Prionotus scitulus,1,0.0016233766233766235
+carnivore__demersal,Serranus sp,1,0.0016233766233766235
+carnivore__demersal,Sphoeroides spengleri,1,0.0016233766233766235
+carnivore__epifaunal,Syngnathus scovelli,209,0.3392857142857143
+carnivore__epifaunal,Syngnathus floridae,121,0.19642857142857142
+carnivore__epifaunal,Syngnathus louisianae,92,0.14935064935064934
+carnivore__epifaunal,Anarchopterus criniger,10,0.016233766233766232
+carnivore__epifaunal,Halicampus crinitus,6,0.00974025974025974
+carnivore__epifaunal,Syngnathus sp,6,0.00974025974025974
+carnivore__epifaunal,Syngnathidae,5,0.008116883116883116
+carnivore__epifaunal,Syngnathus pelagicus,3,0.00487012987012987
+carnivore__epifaunal,Cosmocampus hildebrandi,1,0.0016233766233766235
+carnivore__epifaunal,Histrio histrio,1,0.0016233766233766235
+carnivore__epifaunal,Microphis brachyurus,1,0.0016233766233766235
+carnivore__pelagic,Centropristis striata,41,0.06655844155844155
+carnivore__pelagic,Lolliguncula brevis,5,0.008116883116883116
+carnivore__pelagic,Centropristis sp,3,0.00487012987012987
+carnivore__pelagic,Menidia menidia,2,0.003246753246753247
+carnivore__pelagic,Trichiurus lepturus,2,0.003246753246753247
+carnivore__pelagic,Chloroscombrus chrysurus,1,0.0016233766233766235
+carnivore__pelagic,Lagocephalus laevigatus,1,0.0016233766233766235
+cleaner__demersal,Echeneis neucratoides,1,0.0016233766233766235
+detritivore__demersal,Penaeus aztecus,206,0.3344155844155844
+detritivore__demersal,Penaeus duorarum,187,0.30357142857142855
+detritivore__demersal,Callinectes sapidus,151,0.24512987012987014
+detritivore__demersal,Alpheidae,62,0.10064935064935066
+detritivore__demersal,Libinia dubia,56,0.09090909090909091
+detritivore__demersal,Hypsoblennius ionthas,42,0.06818181818181818
+detritivore__demersal,Chasmodes saburrae,31,0.05032467532467533
+detritivore__demersal,Portunus gibbesii,27,0.04383116883116883
+detritivore__demersal,Rimapenaeus sp,26,0.04220779220779221
+detritivore__demersal,Xanthidae,16,0.025974025974025976
+detritivore__demersal,Epialtidae,15,0.024350649350649352
+detritivore__demersal,Chasmodes longimaxilla,14,0.022727272727272728
+detritivore__demersal,Hypsoblennius hentz,10,0.016233766233766232
+detritivore__demersal,Penaeus setiferus,10,0.016233766233766232
+detritivore__demersal,Gambusia rhizophorae,9,0.01461038961038961
+detritivore__demersal,Blenniidae,8,0.012987012987012988
+detritivore__demersal,Callinectes similis,8,0.012987012987012988
+detritivore__demersal,Libinia emarginata,8,0.012987012987012988
+detritivore__demersal,Ariopsis felis,7,0.011363636363636364
+detritivore__demersal,Lytechinus variegatus,7,0.011363636363636364
+detritivore__demersal,Mugil cephalus,7,0.011363636363636364
+detritivore__demersal,Metoporhaphis calcarata,5,0.008116883116883116
+detritivore__demersal,Hippidae,4,0.006493506493506494
+detritivore__demersal,Paraclinus fasciatus,4,0.006493506493506494
+detritivore__demersal,Portunus sp,4,0.006493506493506494
+detritivore__demersal,Penaeidae,3,0.00487012987012987
+detritivore__demersal,Ctenogobius sp,2,0.003246753246753247
+detritivore__demersal,Paraclinus marmoratus,2,0.003246753246753247
+detritivore__demersal,Bagre marinus,1,0.0016233766233766235
+detritivore__demersal,Callinectes ornatus,1,0.0016233766233766235
+detritivore__demersal,Caridea,1,0.0016233766233766235
+detritivore__demersal,Chasmodes sp,1,0.0016233766233766235
+detritivore__demersal,Ogyrides alphaerostris,1,0.0016233766233766235
+detritivore__demersal,Ogyrididae,1,0.0016233766233766235
+detritivore__demersal,Parablennius marmoreus,1,0.0016233766233766235
+detritivore__demersal,Pilumnus sayi,1,0.0016233766233766235
+detritivore__demersal,Pitho sp,1,0.0016233766233766235
+detritivore__demersal,Portunidae,1,0.0016233766233766235
+detritivore__demersal,Portunus floridanus,1,0.0016233766233766235
+detritivore__demersal,Portunus vossi,1,0.0016233766233766235
+detritivore__demersal,Sicyonia laevigata,1,0.0016233766233766235
+detritivore__epifaunal,Hippolytidae,289,0.46915584415584416
+detritivore__epifaunal,Tozeuma carolinense,206,0.3344155844155844
+detritivore__epifaunal,Palaemon sp,117,0.18993506493506493
+detritivore__epifaunal,Periclimenes sp,96,0.15584415584415584
+detritivore__epifaunal,Palaemon floridanus,64,0.1038961038961039
+detritivore__epifaunal,Palaemonidae,51,0.08279220779220779
+detritivore__epifaunal,Latreutes sp,13,0.021103896103896104
+detritivore__epifaunal,Processa sp,8,0.012987012987012988
+detritivore__epifaunal,Palaemon pugio,7,0.011363636363636364
+detritivore__epifaunal,Periclimenes longicaudatus,6,0.00974025974025974
+detritivore__epifaunal,Latreutes parvulus,5,0.008116883116883116
+detritivore__epifaunal,Thor sp,5,0.008116883116883116
+detritivore__epifaunal,Periclimenes americanus,3,0.00487012987012987
+detritivore__epifaunal,Latreutes fucorum,2,0.003246753246753247
+detritivore__epifaunal,Cuapetes americanus,1,0.0016233766233766235
+detritivore__epifaunal,Leander sp,1,0.0016233766233766235
+detritivore__epifaunal,Palaemon vulgaris,1,0.0016233766233766235
+detritivore__epifaunal,Thor dobkini,1,0.0016233766233766235
+filter feeder__demersal,Argopecten irradians,4,0.006493506493506494
+filter feeder__demersal,Crassostrea virginica,2,0.003246753246753247
+herbivore__demersal,Nicholsina usta,4,0.006493506493506494
+herbivore__demersal,Sparisoma spp,1,0.0016233766233766235
+invertivore__demersal,Bursatella leachii,29,0.04707792207792208
+invertivore__demersal,Aplysia spp,21,0.03409090909090909
+invertivore__demersal,Calamus arctifrons,10,0.016233766233766232
+invertivore__demersal,Elysia sp,3,0.00487012987012987
+invertivore__demersal,Cuthona perca,2,0.003246753246753247
+invertivore__demersal,Menippe adina,1,0.0016233766233766235
+invertivore__demersal,Menippe mercenaria,1,0.0016233766233766235
+invertivore__demersal,Sparidae,1,0.0016233766233766235
+invertivore__pelagic,Lachnolaimus maximus,10,0.016233766233766232
+omnivore__demersal,Lagodon rhomboides,456,0.7402597402597403
+omnivore__demersal,Gobiosoma robustum,201,0.3262987012987013
+omnivore__demersal,Opsanus beta,162,0.262987012987013
+omnivore__demersal,Stephanolepis hispidus,83,0.13474025974025974
+omnivore__demersal,Gerreidae,68,0.11038961038961038
+omnivore__demersal,Ctenogobius boleosoma,64,0.1038961038961039
+omnivore__demersal,Archosargus probatocephalus,57,0.09253246753246754
+omnivore__demersal,Eucinostomus gula,50,0.08116883116883117
+omnivore__demersal,Diplodus holbrookii,42,0.06818181818181818
+omnivore__demersal,Leiostomus xanthurus,41,0.06655844155844155
+omnivore__demersal,Eucinostomus argenteus,35,0.056818181818181816
+omnivore__demersal,Lucania parva,34,0.05519480519480519
+omnivore__demersal,Microgobius sp,29,0.04707792207792208
+omnivore__demersal,Gobiidae,27,0.04383116883116883
+omnivore__demersal,Gobiosoma bosc,24,0.03896103896103896
+omnivore__demersal,Monacanthus ciliatus,21,0.03409090909090909
+omnivore__demersal,Halichoeres bivittatus,20,0.032467532467532464
+omnivore__demersal,Aluterus schoepfii,11,0.017857142857142856
+omnivore__demersal,Eucinostomus sp,9,0.01461038961038961
+omnivore__demersal,Acanthostracion quadricornis,7,0.011363636363636364
+omnivore__demersal,Achirus lineatus,7,0.011363636363636364
+omnivore__demersal,Sciaenops ocellatus,5,0.008116883116883116
+omnivore__demersal,Aluterus heudelotii,4,0.006493506493506494
+omnivore__demersal,Stephanolepis sp,4,0.006493506493506494
+omnivore__demersal,Bathygobius soporator,3,0.00487012987012987
+omnivore__demersal,Microgobius gulosus,3,0.00487012987012987
+omnivore__demersal,Microgobius thalassinus,3,0.00487012987012987
+omnivore__demersal,Gobiosoma sp,2,0.003246753246753247
+omnivore__demersal,Gymnura lessai,2,0.003246753246753247
+omnivore__demersal,Monocanthus sp,2,0.003246753246753247
+omnivore__demersal,Bathygobius sp,1,0.0016233766233766235
+omnivore__demersal,Ctenogobius stigmaturus,1,0.0016233766233766235
+omnivore__demersal,Evothodus lyricus,1,0.0016233766233766235
+omnivore__demersal,Fundulus grandis,1,0.0016233766233766235
+omnivore__demersal,Fundulus heteroclitus,1,0.0016233766233766235
+omnivore__demersal,Halichoeres sp,1,0.0016233766233766235
+omnivore__demersal,Lactophrys trigonus,1,0.0016233766233766235
+omnivore__demersal,Monocanthus tuckeri,1,0.0016233766233766235
+omnivore__demersal,Opsanus sp,1,0.0016233766233766235
+omnivore__demersal,Sciaenidae,1,0.0016233766233766235
+omnivore__pelagic,Chaetodipterus faber,9,0.01461038961038961
+piscivore__demersal,Cynoscion nebulosus,83,0.13474025974025974
+piscivore__demersal,Lutjanus griseus,60,0.09740259740259741
+piscivore__demersal,Lutjanus synagris,21,0.03409090909090909
+piscivore__demersal,Cynoscion arenarius,4,0.006493506493506494
+piscivore__demersal,Cynoscion sp,2,0.003246753246753247
+piscivore__demersal,Lutjanus analis,2,0.003246753246753247
+piscivore__pelagic,Synodus foetens,29,0.04707792207792208
+piscivore__pelagic,Diplectrum formosum,7,0.011363636363636364
+piscivore__pelagic,Oligoplites saurus,2,0.003246753246753247
+piscivore__pelagic,Pomatomus saltatrix,2,0.003246753246753247
+piscivore__pelagic,Seriola rivoliana,1,0.0016233766233766235
+piscivore__pelagic,Sphyraena guachancho,1,0.0016233766233766235
+piscivore__pelagic,Sphyraena spp,1,0.0016233766233766235
+planktivore__demersal,Petrolisthes sp,1,0.0016233766233766235
+planktivore__epifaunal,Hippocampus zosterae,89,0.1444805194805195
+planktivore__epifaunal,Hippocampus erectus,7,0.011363636363636364
+planktivore__pelagic,Anchoa mitchilli,24,0.03896103896103896
+planktivore__pelagic,Harengula jaguana,13,0.021103896103896104
+planktivore__pelagic,Anchoa hepsetus,11,0.017857142857142856
+planktivore__pelagic,Menidia beryllina,5,0.008116883116883116
+planktivore__pelagic,Anchoa sp,1,0.0016233766233766235
+planktivore__pelagic,Brevoortia patronus,1,0.0016233766233766235
+planktivore__pelagic,Sardinella aurita,1,0.0016233766233766235

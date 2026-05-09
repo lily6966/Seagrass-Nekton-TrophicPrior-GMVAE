@@ -1,0 +1,188 @@
+species,trophic_group
+Acanthostracion quadricornis,omnivore__demersal
+Achirus lineatus,omnivore__demersal
+Aluterus heudelotii,omnivore__demersal
+Aluterus schoepfii,omnivore__demersal
+Archosargus probatocephalus,omnivore__demersal
+Bathygobius soporator,omnivore__demersal
+Bathygobius sp,omnivore__demersal
+Ctenogobius boleosoma,omnivore__demersal
+Ctenogobius stigmaturus,omnivore__demersal
+Diplodus holbrookii,omnivore__demersal
+Eucinostomus argenteus,omnivore__demersal
+Eucinostomus gula,omnivore__demersal
+Eucinostomus sp,omnivore__demersal
+Evothodus lyricus,omnivore__demersal
+Fundulus grandis,omnivore__demersal
+Fundulus heteroclitus,omnivore__demersal
+Gerreidae,omnivore__demersal
+Gobiidae,omnivore__demersal
+Gobiosoma bosc,omnivore__demersal
+Gobiosoma robustum,omnivore__demersal
+Gobiosoma sp,omnivore__demersal
+Gymnura lessai,omnivore__demersal
+Halichoeres bivittatus,omnivore__demersal
+Halichoeres sp,omnivore__demersal
+Lactophrys trigonus,omnivore__demersal
+Lagodon rhomboides,omnivore__demersal
+Leiostomus xanthurus,omnivore__demersal
+Lucania parva,omnivore__demersal
+Microgobius gulosus,omnivore__demersal
+Microgobius sp,omnivore__demersal
+Microgobius thalassinus,omnivore__demersal
+Monacanthus ciliatus,omnivore__demersal
+Monocanthus sp,omnivore__demersal
+Monocanthus tuckeri,omnivore__demersal
+Opsanus beta,omnivore__demersal
+Opsanus sp,omnivore__demersal
+Sciaenidae,omnivore__demersal
+Sciaenops ocellatus,omnivore__demersal
+Stephanolepis hispidus,omnivore__demersal
+Stephanolepis sp,omnivore__demersal
+Alpheidae,detritivore__demersal
+Ariopsis felis,detritivore__demersal
+Bagre marinus,detritivore__demersal
+Blenniidae,detritivore__demersal
+Callinectes ornatus,detritivore__demersal
+Callinectes sapidus,detritivore__demersal
+Callinectes similis,detritivore__demersal
+Caridea,detritivore__demersal
+Chasmodes longimaxilla,detritivore__demersal
+Chasmodes saburrae,detritivore__demersal
+Chasmodes sp,detritivore__demersal
+Ctenogobius sp,detritivore__demersal
+Epialtidae,detritivore__demersal
+Gambusia rhizophorae,detritivore__demersal
+Hippidae,detritivore__demersal
+Hypsoblennius hentz,detritivore__demersal
+Hypsoblennius ionthas,detritivore__demersal
+Libinia dubia,detritivore__demersal
+Libinia emarginata,detritivore__demersal
+Lytechinus variegatus,detritivore__demersal
+Metoporhaphis calcarata,detritivore__demersal
+Mugil cephalus,detritivore__demersal
+Ogyrides alphaerostris,detritivore__demersal
+Ogyrididae,detritivore__demersal
+Parablennius marmoreus,detritivore__demersal
+Paraclinus fasciatus,detritivore__demersal
+Paraclinus marmoratus,detritivore__demersal
+Penaeidae,detritivore__demersal
+Penaeus aztecus,detritivore__demersal
+Penaeus duorarum,detritivore__demersal
+Penaeus setiferus,detritivore__demersal
+Pilumnus sayi,detritivore__demersal
+Pitho sp,detritivore__demersal
+Portunidae,detritivore__demersal
+Portunus floridanus,detritivore__demersal
+Portunus gibbesii,detritivore__demersal
+Portunus sp,detritivore__demersal
+Portunus vossi,detritivore__demersal
+Rimapenaeus sp,detritivore__demersal
+Sicyonia laevigata,detritivore__demersal
+Xanthidae,detritivore__demersal
+Bairdiella chrysoura,carnivore__demersal
+Bascanichthys bascanium,carnivore__demersal
+Bothidae,carnivore__demersal
+Centropristis ocyurus,carnivore__demersal
+Centropristis philadelphica,carnivore__demersal
+Chilomycterus schoepfi,carnivore__demersal
+Citharichthys spilopterus,carnivore__demersal
+Diapterus auratus,carnivore__demersal
+Diplectrum bivittatum,carnivore__demersal
+Elops saurus,carnivore__demersal
+Etropus crossotus,carnivore__demersal
+Favorinidae,carnivore__demersal
+Haemulidae,carnivore__demersal
+Haemulon plumieri,carnivore__demersal
+Haemulon sp,carnivore__demersal
+Hypanus sabinus,carnivore__demersal
+Menticirrhus americanus,carnivore__demersal
+Menticirrhus sp,carnivore__demersal
+Micropogonias undulatus,carnivore__demersal
+Mycteroperca microlepis,carnivore__demersal
+Ogcocephalus cubifrons,carnivore__demersal
+Ophidion holbrookii,carnivore__demersal
+Orthopristis chrysoptera,carnivore__demersal
+Paralichthyidae,carnivore__demersal
+Paralichthys albigutta,carnivore__demersal
+Paralichthys dentatus,carnivore__demersal
+Paralichthys lethostigma,carnivore__demersal
+Pogonias cromis,carnivore__demersal
+Prionotus scitulus,carnivore__demersal
+Prionotus sp,carnivore__demersal
+Serranus sp,carnivore__demersal
+Serranus subligarius,carnivore__demersal
+Sphoeroides nephelus,carnivore__demersal
+Sphoeroides parvus,carnivore__demersal
+Sphoeroides spengleri,carnivore__demersal
+Stellifer lanceolatus,carnivore__demersal
+Symphurus civitatium,carnivore__demersal
+Symphurus plagiusa,carnivore__demersal
+Symphurus sp,carnivore__demersal
+Trinectes maculatus,carnivore__demersal
+Anarchopterus criniger,carnivore__epifaunal
+Cosmocampus hildebrandi,carnivore__epifaunal
+Halicampus crinitus,carnivore__epifaunal
+Histrio histrio,carnivore__epifaunal
+Microphis brachyurus,carnivore__epifaunal
+Syngnathidae,carnivore__epifaunal
+Syngnathus floridae,carnivore__epifaunal
+Syngnathus louisianae,carnivore__epifaunal
+Syngnathus pelagicus,carnivore__epifaunal
+Syngnathus scovelli,carnivore__epifaunal
+Syngnathus sp,carnivore__epifaunal
+Cuapetes americanus,detritivore__epifaunal
+Hippolytidae,detritivore__epifaunal
+Latreutes fucorum,detritivore__epifaunal
+Latreutes parvulus,detritivore__epifaunal
+Latreutes sp,detritivore__epifaunal
+Leander sp,detritivore__epifaunal
+Palaemon floridanus,detritivore__epifaunal
+Palaemon pugio,detritivore__epifaunal
+Palaemon sp,detritivore__epifaunal
+Palaemon vulgaris,detritivore__epifaunal
+Palaemonidae,detritivore__epifaunal
+Periclimenes americanus,detritivore__epifaunal
+Periclimenes longicaudatus,detritivore__epifaunal
+Periclimenes sp,detritivore__epifaunal
+Processa sp,detritivore__epifaunal
+Thor dobkini,detritivore__epifaunal
+Thor sp,detritivore__epifaunal
+Tozeuma carolinense,detritivore__epifaunal
+Cynoscion arenarius,piscivore__demersal
+Cynoscion nebulosus,piscivore__demersal
+Cynoscion sp,piscivore__demersal
+Lutjanus analis,piscivore__demersal
+Lutjanus griseus,piscivore__demersal
+Lutjanus synagris,piscivore__demersal
+Hippocampus erectus,planktivore__epifaunal
+Hippocampus zosterae,planktivore__epifaunal
+Aplysia spp,invertivore__demersal
+Bursatella leachii,invertivore__demersal
+Calamus arctifrons,invertivore__demersal
+Cuthona perca,invertivore__demersal
+Elysia sp,invertivore__demersal
+Menippe adina,invertivore__demersal
+Menippe mercenaria,invertivore__demersal
+Sparidae,invertivore__demersal
+Centropristis sp,carnivore__pelagic
+Centropristis striata,carnivore__pelagic
+Chloroscombrus chrysurus,carnivore__pelagic
+Lagocephalus laevigatus,carnivore__pelagic
+Lolliguncula brevis,carnivore__pelagic
+Menidia menidia,carnivore__pelagic
+Trichiurus lepturus,carnivore__pelagic
+Anchoa hepsetus,planktivore__pelagic
+Anchoa mitchilli,planktivore__pelagic
+Anchoa sp,planktivore__pelagic
+Brevoortia patronus,planktivore__pelagic
+Harengula jaguana,planktivore__pelagic
+Menidia beryllina,planktivore__pelagic
+Sardinella aurita,planktivore__pelagic
+Diplectrum formosum,piscivore__pelagic
+Oligoplites saurus,piscivore__pelagic
+Pomatomus saltatrix,piscivore__pelagic
+Seriola rivoliana,piscivore__pelagic
+Sphyraena guachancho,piscivore__pelagic
+Sphyraena spp,piscivore__pelagic
+Synodus foetens,piscivore__pelagic

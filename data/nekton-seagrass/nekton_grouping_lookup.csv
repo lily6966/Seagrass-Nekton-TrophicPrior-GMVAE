@@ -1,0 +1,194 @@
+taxon,resolution_type,assigned_group,group_source
+Bairdiella chrysoura,exact_scientific,carnivore__demersal,Geers et al. 2016 and Akin 2008
+Bascanichthys bascanium,exact_scientific,carnivore__demersal,seabase
+Bothidae,exact_scientific,carnivore__demersal,Geers et al. 2016
+Centropristis ocyurus,exact_scientific,carnivore__demersal,Link 1980
+Centropristis philadelphica,exact_scientific,carnivore__demersal,Link 1980
+Chilomycterus schoepfi,exact_scientific,carnivore__demersal,Geers et al. 2016
+Citharichthys spilopterus,exact_scientific,carnivore__demersal,Akin 2008 (SC)
+Diapterus auratus,exact_scientific,carnivore__demersal,Geers et al. 2016
+Diplectrum bivittatum,exact_scientific,carnivore__demersal,Fishbase
+Elops saurus,exact_scientific,carnivore__demersal,Akin 2008 (SI) and Geers et al. 2016
+Etropus crossotus,exact_scientific,carnivore__demersal,Lunardon-Branco et al. 2013
+Favorinidae,exact_scientific,carnivore__demersal,Christian 1999
+Haemulidae,exact_scientific,carnivore__demersal,Geers et al. 2016
+Haemulon plumieri,exact_scientific,carnivore__demersal,Geers et al. 2016
+Haemulon sp,exact_scientific,carnivore__demersal,Geers et al. 2016
+Hypanus sabinus,exact_scientific,carnivore__demersal,Geers et al. 2016
+Menticirrhus americanus,exact_scientific,carnivore__demersal,Geers et al. 2016
+Menticirrhus sp,exact_scientific,carnivore__demersal,Geers et al. 2016
+Micropogonias undulatus,exact_scientific,carnivore__demersal,Geers et al. 2016
+Mycteroperca microlepis,exact_scientific,carnivore__demersal,Geers et al. 2016
+Ogcocephalus cubifrons,exact_scientific,carnivore__demersal,seabase
+Ophidion holbrookii,exact_scientific,carnivore__demersal,Fishbase
+Orthopristis chrysoptera,exact_scientific,carnivore__demersal,Geers et al. 2016
+Paralichthyidae,exact_taxonomic_group,carnivore__demersal,Wainright et al. 1993
+Paralichthys albigutta,exact_scientific,carnivore__demersal,Christian 1999 and Geers 2016
+Paralichthys dentatus,exact_scientific,carnivore__demersal,Wainright et al. 1993
+Paralichthys lethostigma,exact_scientific,carnivore__demersal,Akin 2008 (SI)
+Pogonias cromis,exact_scientific,carnivore__demersal,Geers et al. 2016
+Prionotus scitulus,exact_scientific,carnivore__demersal,Geers et al. 2016
+Prionotus sp,exact_scientific,carnivore__demersal,Christian 1999
+Sciaenidae,exact_taxonomic_group,carnivore__demersal,Geers et al. 2016 and Akin 2008
+Serranus sp,exact_scientific,carnivore__demersal,Link 1980
+Serranus subligarius,exact_scientific,carnivore__demersal,Fishbase
+Sphoeroides nephelus,exact_scientific,carnivore__demersal,
+Sphoeroides parvus,exact_scientific,carnivore__demersal,
+Sphoeroides spengleri,exact_scientific,carnivore__demersal,Randal 1967
+Stellifer lanceolatus,exact_scientific,carnivore__demersal,"Robins 1986, Welse and Breder 1925"
+Symphurus civitatium,exact_scientific,carnivore__demersal,Christian 1999
+Symphurus plagiusa,exact_scientific,carnivore__demersal,Austin 1971
+Symphurus sp,exact_scientific,carnivore__demersal,Christian 1999
+Trinectes maculatus,exact_scientific,carnivore__demersal,Geers et al. 2016
+Anarchopterus criniger,exact_scientific,carnivore__epifaunal,Fishbase
+Cosmocampus hildebrandi,exact_scientific,carnivore__epifaunal,Fishbase
+Halicampus crinitus,exact_scientific,carnivore__epifaunal,Akin 2008 (SI) and Christian 1999
+Histrio histrio,exact_scientific,carnivore__epifaunal,
+Microphis brachyurus,exact_scientific,carnivore__epifaunal,Rainboth 1996
+Syngnathidae,exact_taxonomic_group,carnivore__epifaunal,Fishbase
+Syngnathus floridae,exact_scientific,carnivore__epifaunal,Akin 2008 (SI) and Christian 1999
+Syngnathus louisianae,exact_scientific,carnivore__epifaunal,Rooker 2006 (SI)
+Syngnathus pelagicus,exact_scientific,carnivore__epifaunal,Rooker 2006 (SI)
+Syngnathus scovelli,exact_scientific,carnivore__epifaunal,Akin 2008 (SI) and Christian 1999
+Syngnathus sp,exact_scientific,carnivore__epifaunal,Akin 2008 (SI) and Christian 1999
+Centropristis sp,exact_scientific,carnivore__pelagic,Link 1980
+Centropristis striata,exact_scientific,carnivore__pelagic,Link 1980
+Chloroscombrus chrysurus,exact_scientific,carnivore__pelagic,Geers et al. 2016
+Lagocephalus laevigatus,exact_scientific,carnivore__pelagic,Diouf 1996
+Lolliguncula brevis,exact_scientific,carnivore__pelagic,Geers et al. 2016
+Menidia menidia,exact_scientific,carnivore__pelagic,Adams (1976)
+Trichiurus lepturus,exact_scientific,carnivore__pelagic,Geers et al. 2016
+Alpheidae,exact_scientific,detritivore__demersal,Christian 1999
+Ariopsis felis,exact_scientific,detritivore__demersal,"Christian 1999, Akin 2008, and Geers et al. 2016"
+Bagre marinus,exact_scientific,detritivore__demersal,Geers et al. 2016
+Blenniidae,exact_taxonomic_group,detritivore__demersal,Fishbase
+Callinectes ornatus,exact_scientific,detritivore__demersal,Geers et al. 2016
+Callinectes similis,exact_scientific,detritivore__demersal,"Rooker 2006 (SI), arkin 2008 (SC)"
+Caridea,exact_scientific,detritivore__demersal,Geers et al. 2016
+Chasmodes longimaxilla,exact_scientific,detritivore__demersal,Christian 1999
+Chasmodes saburrae,exact_scientific,detritivore__demersal,Carr et al. 1973
+Chasmodes sp,exact_scientific,detritivore__demersal,Christian 1999
+Class Holothuroidea,exact_scientific,detritivore__demersal,Guo 2016
+Ctenogobius sp,exact_scientific,detritivore__demersal,Akin 2008 (SC) and Christian 1999
+Epialtidae,exact_scientific,detritivore__demersal,Geers et al. 2016
+Gambusia rhizophorae,exact_scientific,detritivore__demersal,Fishbase
+Hippidae,exact_taxonomic_group,detritivore__demersal,Griffen and Felder
+Hypsoblennius hentz,exact_scientific,detritivore__demersal,Lindquist 1986
+Hypsoblennius ionthas,exact_scientific,detritivore__demersal,Lindquist 1986
+Libinia dubia,exact_scientific,detritivore__demersal,Christian 1999
+Libinia emarginata,exact_scientific,detritivore__demersal,Griffen and Felder
+Lytechinus variegatus,exact_scientific,detritivore__demersal,Jennings 1999
+Metoporhaphis calcarata,exact_scientific,detritivore__demersal,Griffen and Felder
+Mugil cephalus,exact_scientific,detritivore__demersal,"Geers et al. 2016, Akin 2008 (SI)"
+Ogyrides alphaerostris,exact_scientific,detritivore__demersal,Geers et al. 2016
+Ogyrididae,exact_taxonomic_group,detritivore__demersal,Geers et al. 2016
+Parablennius marmoreus,exact_scientific,detritivore__demersal,Pattengill et al. 1997
+Paraclinus fasciatus,exact_scientific,detritivore__demersal,Christian 1999
+Paraclinus marmoratus,exact_scientific,detritivore__demersal,Fishbase
+Penaeidae,exact_taxonomic_group,detritivore__demersal,Akin 2008 (SI) and Geers et al. 2016
+Penaeus setiferus,exact_scientific,detritivore__demersal,Akin 2008 (SI) and Geers et al. 2016
+Pilumnus sayi,exact_scientific,detritivore__demersal,Griffen and Felder
+Pitho sp,exact_scientific,detritivore__demersal,Griffen and Felder
+Portunidae,exact_taxonomic_group,detritivore__demersal,Geers et al. 2016
+Portunus floridanus,exact_scientific,detritivore__demersal,Geers et al. 2016 and Christian 1999
+Portunus gibbesii,exact_scientific,detritivore__demersal,Geers et al. 2016 and Christian 1999
+Portunus sp,exact_scientific,detritivore__demersal,Geers et al. 2016 and Christian 1999
+Portunus vossi,exact_scientific,detritivore__demersal,Geers et al. 2016 and Christian 1999
+Rimapenaeus sp,exact_scientific,detritivore__demersal,Akin 2008 (SI) and Geers et al. 2016
+Sicyonia laevigata,exact_scientific,detritivore__demersal,Akin 2008 (SI) and Geers et al. 2016
+Xanthidae,exact_taxonomic_group,detritivore__demersal,Griffen and Felder
+Cuapetes americanus,exact_scientific,detritivore__epifaunal,Akin 2008 (SI) and Christian 1999
+Hippolytidae,exact_scientific,detritivore__epifaunal,Christian 1999
+Latreutes fucorum,exact_scientific,detritivore__epifaunal,Rooker 2006 (SI)
+Latreutes parvulus,exact_scientific,detritivore__epifaunal,Rooker 2006 (SI)
+Latreutes sp,exact_scientific,detritivore__epifaunal,Rooker 2006 (SI)
+Leander sp,exact_scientific,detritivore__epifaunal,Rooker 2006 (SI)
+Palaemon floridanus,exact_scientific,detritivore__epifaunal,Christian 1999
+Palaemon pugio,exact_scientific,detritivore__epifaunal,Akin 2008 (SI) and Christian 1999
+Palaemon sp,exact_scientific,detritivore__epifaunal,Akin 2008 (SI) and Christian 1999
+Palaemon vulgaris,exact_scientific,detritivore__epifaunal,Akin 2008 (SI) and Christian 1999
+Palaemonidae,exact_taxonomic_group,detritivore__epifaunal,Akin 2008 (SI) and Christian 1999
+Periclimenes americanus,exact_scientific,detritivore__epifaunal,Akin 2008 (SI) and Christian 1999
+Periclimenes longicaudatus,exact_scientific,detritivore__epifaunal,Akin 2008 (SI) and Christian 1999
+Periclimenes sp,exact_scientific,detritivore__epifaunal,Akin 2008 (SI) and Christian 1999
+Processa sp,exact_scientific,detritivore__epifaunal,Christian 1999
+Thor dobkini,exact_scientific,detritivore__epifaunal,Christian 1999
+Thor sp,exact_scientific,detritivore__epifaunal,Christian 1999
+Tozeuma carolinense,exact_scientific,detritivore__epifaunal,Christian 1999
+Aplysia spp,exact_scientific,invertivore__demersal,Masterson 2008
+Bursatella leachii,exact_scientific,invertivore__demersal,Masterson 2008
+Calamus arctifrons,exact_scientific,invertivore__demersal,Robins and Ray 1986
+Cuthona perca,exact_scientific,invertivore__demersal,Masterson 2008
+Elysia sp,exact_scientific,invertivore__demersal,Masterson 2008
+Menippe adina,exact_scientific,invertivore__demersal,Geers et al. 2016
+Menippe mercenaria,exact_scientific,invertivore__demersal,Geers et al. 2016
+Menippe sp,exact_scientific,invertivore__demersal,Geers et al. 2016
+Sparidae,exact_taxonomic_group,invertivore__demersal,Robins and Ray 1986
+Acanthostracion quadricornis,exact_scientific,omnivore__demersal,Randall 1967
+Achirus lineatus,exact_scientific,omnivore__demersal,Keith et al. 2000
+Aluterus heudelotii,exact_scientific,omnivore__demersal,Rooker 2006 (SI)
+Aluterus schoepfii,exact_scientific,omnivore__demersal,Randall 1967
+Archosargus probatocephalus,exact_scientific,omnivore__demersal,Geers et al. 2016
+Bathygobius soporator,exact_scientific,omnivore__demersal,Christian 1999
+Bathygobius sp,exact_scientific,omnivore__demersal,Christian 1999
+Ctenogobius boleosoma,exact_scientific,omnivore__demersal,Akin 2008 (SC)
+Ctenogobius stigmaturus,exact_scientific,omnivore__demersal,Akin 2008 (SC)
+Diplodus holbrookii,exact_scientific,omnivore__demersal,Geers et al. 2016
+Eucinostomus argenteus,exact_scientific,omnivore__demersal,Austin 1971
+Eucinostomus gula,exact_scientific,omnivore__demersal,Motta et al. 1995
+Eucinostomus sp,exact_scientific,omnivore__demersal,Motta et al. 1995
+Evothodus lyricus,exact_scientific,omnivore__demersal,Fishbase
+Fundulus grandis,exact_scientific,omnivore__demersal,Akin 2008
+Fundulus heteroclitus,exact_scientific,omnivore__demersal,Pauly 1989
+Gerreidae,exact_taxonomic_group,omnivore__demersal,Austin 1971
+Gobiidae,exact_scientific,omnivore__demersal,Christian 1999
+Gobiosoma bosc,exact_scientific,omnivore__demersal,Akin 2008 (SI)
+Gobiosoma robustum,exact_scientific,omnivore__demersal,"Akin 2008 (SC), Christian 1999"
+Gobiosoma sp,exact_scientific,omnivore__demersal,Akin 2008 (SI)
+Gymnura lessai,exact_scientific,omnivore__demersal,Diouf 1996
+Halichoeres bivittatus,exact_scientific,omnivore__demersal,Randall 1967
+Halichoeres sp,exact_scientific,omnivore__demersal,Randall 1967
+Lactophrys trigonus,exact_scientific,omnivore__demersal,Randall 1967
+Lagodon rhomboides,exact_scientific,omnivore__demersal,Geers et al. 2016
+Leiostomus xanthurus,exact_scientific,omnivore__demersal,"Geers et al. 2016, Akin 2008 (SI)"
+Lucania parva,exact_scientific,omnivore__demersal,Akin (2008)
+Microgobius gulosus,exact_scientific,omnivore__demersal,"Akin 2008 (SC), Christian 1999"
+Microgobius sp,exact_scientific,omnivore__demersal,"Akin 2008 (SC), Christian 1999"
+Microgobius thalassinus,exact_scientific,omnivore__demersal,Fishbase
+Monacanthus ciliatus,exact_scientific,omnivore__demersal,Randall 1967
+Monocanthus sp,exact_scientific,omnivore__demersal,Rooker 2006 (SI)
+Monocanthus tuckeri,exact_scientific,omnivore__demersal,Randall 1967
+Opsanus beta,exact_scientific,omnivore__demersal,Geers et al. 2016
+Opsanus sp,exact_scientific,omnivore__demersal,Geers et al. 2016
+Sciaenops ocellatus,exact_scientific,omnivore__demersal,"Geers et al. 2016, Akin 2008 (SI)"
+Stephanolepis hispidus,exact_scientific,omnivore__demersal,Rooker 2006 (SI)
+Stephanolepis sp,exact_scientific,omnivore__demersal,Rooker 2006 (SI)
+Diplectrum formosum,exact_scientific,piscivore__pelagic,
+Oligoplites saurus,exact_scientific,piscivore__pelagic,Carr et al. 1972
+Pomatomus saltatrix,exact_scientific,piscivore__pelagic,Buckel 1997 and Bowman 2000
+Seriola rivoliana,exact_scientific,piscivore__pelagic,Rooker 2006 (SI)
+Sphyraena guachancho,exact_scientific,piscivore__pelagic,Sierra et al. 194 and Gomez-Canchong 2004
+Sphyraena spp,exact_scientific,piscivore__pelagic,Sierra et al. 194 and Gomez-Canchong 2004
+Synodus foetens,exact_scientific,piscivore__pelagic,Cruz-Escalona et al. 2005
+Hippocampus erectus,exact_scientific,planktivore__epifaunal,Lourie et al. 1999
+Hippocampus zosterae,exact_scientific,planktivore__epifaunal,Christian 1999
+Anchoa hepsetus,exact_scientific,planktivore__pelagic,Geers et al. 2016
+Anchoa mitchilli,exact_scientific,planktivore__pelagic,"Christian 1999, Akin 2008, and Geers 2016"
+Anchoa sp,exact_scientific,planktivore__pelagic,Geers et al. 2016
+Brevoortia patronus,exact_scientific,planktivore__pelagic,Geers et al. 2016 and Akin 2008
+Harengula jaguana,exact_scientific,planktivore__pelagic,Geers et al. 2016
+Menidia beryllina,exact_scientific,planktivore__pelagic,Christian 1999
+Sardinella aurita,exact_scientific,planktivore__pelagic,Geers et al. 2016
+Argopecten irradians,exact_scientific,unknown,McLusky 2013
+Chaetodipterus faber,exact_scientific,unknown,Hayse 1990 and Bowman et al. 2000
+Crassostrea virginica,exact_scientific,unknown,Christian 1999 and Geers et al. 2016
+Cynoscion arenarius,exact_scientific,unknown,Akin 2008 (SC)
+Cynoscion sp,exact_scientific,unknown,Geers et al. 2016
+Echeneis neucratoides,exact_scientific,unknown,Fishbase manual
+Farfantepenaeus sp,unmatched,unknown,
+Lachnolaimus maximus,exact_scientific,unknown,Bowman et al. 2000
+Lutjanus analis,exact_scientific,unknown,Sierra et al. 1994
+Nicholsina usta,exact_scientific,unknown,Cervigon 1994
+Petrolisthes sp,exact_scientific,unknown,Griffen and Felder
+Sparisoma spp,exact_scientific,unknown,Randall 1967
+Unknown species,unmatched,unknown,

@@ -1,0 +1,24 @@
+{
+  "source_dataset": "nekton_seagrass_finetune_fisheries8_seagrass_data.npy",
+  "selection": "sled_only_without_gear_feature",
+  "removed_features": [
+    "gear_is_sled",
+    "gear_is_sled__missing"
+  ],
+  "n_samples": 322,
+  "label_dim": 8,
+  "feature_dim": 509,
+  "labels": [
+    "Penaeus aztecus",
+    "Penaeus duorarum",
+    "Penaeus setiferus",
+    "Callinectes sapidus",
+    "Sciaenops ocellatus",
+    "Cynoscion nebulosus",
+    "Lutjanus griseus",
+    "Lutjanus synagris"
+  ],
+  "train_size": 236,
+  "val_size": 56,
+  "test_size": 30
+}

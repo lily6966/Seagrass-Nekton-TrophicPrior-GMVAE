@@ -1,0 +1,12 @@
+target,occupancy
+omnivore__demersal,294.0
+carnivore__demersal,242.0
+carnivore__epifaunal,158.0
+detritivore__epifaunal,11.0
+detritivore__demersal,117.0
+planktivore__epifaunal,18.0
+invertivore__demersal,31.0
+carnivore__pelagic,45.0
+planktivore__pelagic,46.0
+piscivore__pelagic,30.0
+piscivore__demersal,3.0

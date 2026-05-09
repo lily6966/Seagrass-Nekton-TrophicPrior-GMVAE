@@ -1,0 +1,20 @@
+name: multi-taxa-gmvae
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - pytorch
+  - tensorboard
+  - joblib
+  - pillow
+  - openpyxl
+  - jupyterlab
+  - ipykernel
+  - pip
+  - llvm-openmp
+  - nomkl

@@ -1,0 +1,1 @@
+python main.py --data_dir data/nekton-seagrass/nekton_seagrass_data.npy --test_idx data/nekton-seagrass/nekton_seagrass_test_idx.npy --label_dim 199 --z_dim 32 --latent_dim 32 --feature_dim 183 --nll_coeff 0.5 --c_coeff 0.0 --batch_size 64 --mode test --emb_size 256 --reg gmvae -cp model/model_nekton_seagrass/lr-0.0005_lr-decay_0.50_lr-times_4.0_nll-0.50_l2-1.00_c-0.00/vae-45

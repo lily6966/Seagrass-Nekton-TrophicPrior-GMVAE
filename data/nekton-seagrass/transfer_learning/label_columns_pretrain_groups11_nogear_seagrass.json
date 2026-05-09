@@ -1,0 +1,13 @@
+[
+  "omnivore__demersal",
+  "carnivore__demersal",
+  "carnivore__epifaunal",
+  "detritivore__epifaunal",
+  "detritivore__demersal",
+  "planktivore__epifaunal",
+  "invertivore__demersal",
+  "carnivore__pelagic",
+  "planktivore__pelagic",
+  "piscivore__pelagic",
+  "piscivore__demersal"
+]
