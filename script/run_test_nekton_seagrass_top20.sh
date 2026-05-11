@@ -1,1 +1,0 @@
-python main.py --data_dir data/nekton-seagrass/nekton_seagrass_top20_data.npy --test_idx data/nekton-seagrass/nekton_seagrass_top20_test_idx.npy --label_dim 20 --z_dim 32 --latent_dim 32 --feature_dim 183 --nll_coeff 0.5 --c_coeff 0.0 --batch_size 64 --mode test --emb_size 256 --reg gmvae -cp model/model_nekton_seagrass_top20/REPLACE_WITH_CHECKPOINT
