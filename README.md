@@ -2,12 +2,11 @@
 
 This repository adapts the original Contrastive Gaussian Mixture Variational Autoencoder (C-GMVAE) codebase to model multi-species nekton occurrence in seagrass systems, with additional data-processing, transfer-learning, abundance, attribution, and partial-dependence analysis workflows.
 
-The current repo is centered on the `data/nekton-seagrass/` pipeline rather than the original MIRFLICKR demo. In practice, the main workflow is:
+The current repo is centered on the `data/nekton-seagrass/` . In practice, the main workflow is:
 
 1. Build processed `.npy` datasets from raw nekton survey tables.
 2. Train a GMVAE or transfer-learning variant with one of the shell scripts in `script/`.
-3. Evaluate checkpoints with the paired test scripts.
-4. Optionally run interpretation and plotting utilities from `tools/` and `pdp analysis py/`.
+3. Optionally run interpretation and plotting utilities from `tools/` and `pdp analysis py/`.
 
 ## Citation Required
 
@@ -24,14 +23,13 @@ If you use the model code in this repository, please cite the original C-GMVAE p
 }
 ```
 
-If you use the included seagrass/nekton datasets or any derived ecological results, you should also cite the original survey and source datasets used to assemble `data/nekton-seagrass/`. This repository currently includes the processing code and local source files, but it does not yet document a single canonical ecological data citation in the codebase, so that part should be added based on the source study or manuscript you are using.
 
 ## What This Repo Contains
 
 - A PyTorch implementation of a GMVAE-style multilabel model.
-- Processed-data builders for seagrass nekton presence/absence and abundance tasks.
+- Processed-data builders for seagrass nekton presence/absence tasks.
 - Transfer-learning dataset builders for trophic-group and fisheries-focused experiments.
-- Training and evaluation scripts for baseline, transfer-learning, and hurdle/abundance models.
+- Training and evaluation scripts for transfer-learning models.
 - Analysis helpers for attribution, plotting, and partial dependence summaries.
 
 ## Environment Setup
@@ -131,13 +129,7 @@ This reads the raw sled and trawl survey tables, builds feature matrices and mul
 - `data/nekton-seagrass/feature_columns.json`
 - `data/nekton-seagrass/label_columns.json`
 
-Useful variants:
 
-```bash
-python tools/process_nekton_seagrass.py --top-k-labels 20
-python tools/process_nekton_seagrass.py --top-k-labels 20 --use-other-species-as-features
-python tools/process_nekton_seagrass.py --include-seagrass-columns
-```
 
 ### 2. Train a baseline multilabel model
 
@@ -204,31 +196,15 @@ This repo contains many prepared transfer-learning experiments in `script/`, inc
 
 Representative examples:
 
-- `script/run_train_transfer_learning_pretrain_groups11_seagrass.sh`
+
 - `script/run_train_transfer_learning_pretrain_feedpos11_allspecies_seagrass.sh`
 - `script/run_train_transfer_learning_finetune_fisheries8_fullgroupconsistency_nogear_v1.sh`
 
 Related dataset builders live in `tools/`, for example:
 
 - `tools/build_species_group_transfer_dataset.py`
-- `tools/build_transfer_comparison_datasets.py`
-- `tools/build_trawl_only_transfer_datasets.py`
 - `tools/build_fisheries_trophic_dataset.py`
 
-### Abundance and hurdle models
-
-The repo also includes separate workflows for abundance prediction and hurdle-style models:
-
-- `tools/process_nekton_seagrass_abundance.py`
-- `tools/train_abundance_regression.py`
-- `tools/train_hurdle_abundance.py`
-- `tools/tune_hurdle_abundance.py`
-
-Representative scripts:
-
-- `script/run_train_nekton_seagrass_abundance_env.sh`
-- `script/run_train_nekton_seagrass_hurdle_env.sh`
-- `script/run_compare_nekton_seagrass_abundance_models.sh`
 
 ### Interpretation and figures
 
